@@ -1,0 +1,5 @@
+#Ignore these files and do not upload them to the GitHub REPO
+#
+my-detest.sql
+my-drupal-db-backup.sql
+sites/default/settings.php
